@@ -4,3 +4,6 @@
 [submodule "App"]
 	path = App
 	url = git@github.com:developforapple/spproject.git
+[submodule "AppStorePicMaker"]
+	path = AppStorePicMaker
+	url = git@github.com:developforapple/picMaker.git

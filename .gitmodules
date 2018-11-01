@@ -1,3 +1,6 @@
 [submodule "Updater"]
 	path = Updater
 	url = git@github.com:developforapple/updater.git
+[submodule "App"]
+	path = App
+	url = git@github.com:developforapple/spproject.git
